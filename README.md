@@ -1,5 +1,22 @@
-Planning-I want to use a spotify api to display and play a random song that the user can choose from.  I want the user to be able to add and remove songs to the database from the api. Should be unique to the users profile. I want a clean but functional homepage/app using bootstrap react.
+APP TITLE
+A crypto currency tracker/real time updater that allows the user to keep track and save their favorite crypto.
 
-![image_67121409](https://user-images.githubusercontent.com/114432332/205409923-d4498445-250c-431e-876b-a2f16a64a2f2.JPG)
-![image_67138817](https://user-images.githubusercontent.com/114432332/205409926-3c26518e-33df-4b0c-88e6-eb16a866b091.JPG)
-![image_67121921](https://user-images.githubusercontent.com/114432332/205409933-bbe2af5f-819c-47a0-8d8c-18fb68db9452.JPG)
+SCREENSHOT
+<img width="1728" alt="Screenshot 2022-12-09 at 7 26 30 AM" src="https://user-images.githubusercontent.com/114432332/206712844-9388f668-370d-468f-a64e-33806cf251d8.png">
+
+TECHNOLOGIES USED
+React
+MongoDB
+Axios
+CoinGecko API
+Node
+Express
+
+GETTING STARTED
+ERD
+https://www.figma.com/file/UkVz8Y7ADamQirDM8czzl5/ERD-diagram-(Community)?node-id=0%3A1&t=9U2bppJ7USrKQ48Q-1
+
+WIREFRAME
+![image_67129857](https://user-images.githubusercontent.com/114432332/206719151-ddb5fd10-c378-471b-bbe2-e946fb4df931.JPG)
+
+TRELLO BOARD
