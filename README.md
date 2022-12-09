@@ -14,7 +14,8 @@ Express
 
 GETTING STARTED
 ERD
-https://www.figma.com/file/UkVz8Y7ADamQirDM8czzl5/ERD-diagram-(Community)?node-id=0%3A1&t=9U2bppJ7USrKQ48Q-1
+https://www.figma.com/file/UkVz8Y7ADamQirDM8czzl5/ERD-diagram-(Community)?node-id=0%3A1&t=9U2bppJ7USrKQ48Q-1<img width="1728" alt="Screenshot 2022-12-09 at 2 15 23 PM" src="https://user-images.githubusercontent.com/114432332/206789058-a9159b6b-6cbf-45bd-9a62-6cf1956d082f.png">
+
 
 WIREFRAME
 ![image_67129857](https://user-images.githubusercontent.com/114432332/206719151-ddb5fd10-c378-471b-bbe2-e946fb4df931.JPG)
