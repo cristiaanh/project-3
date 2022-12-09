@@ -21,3 +21,8 @@ WIREFRAME
 
 TRELLO BOARD
 https://trello.com/b/JXM1CNAl/project-3
+
+ICEBOX
+add styling
+add components of the api to a watch list
+add alerts
